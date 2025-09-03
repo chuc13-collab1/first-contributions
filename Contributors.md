@@ -1,5 +1,6 @@
 
 # Contributors
+- [Nguyễn Tiến Chức](https://github.com/chuc13-collab1)
 -[Vishal Perla](https://github.com/Vishal-Perla)
 -Isabella Ramirez E.
 -[Akash](https://github.com/Akash-code-0-1)
